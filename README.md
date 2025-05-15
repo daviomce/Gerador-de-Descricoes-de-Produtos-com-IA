@@ -4,11 +4,11 @@ Este projeto utiliza a API do Gemini da Google para gerar descrições de produt
 
 ## Funcionalidades
 
-* [cite_start] **Geração de Descrições a partir de Imagens:** A IA analisa a imagem do produto para identificar suas características visuais.
-* [cite_start] **Entrada de Informações Adicionais:** O usuário pode fornecer informações como nome do produto, marca, público-alvo e características-chave.
-* [cite_start] **Seleção de Tom de Voz:** O usuário pode escolher o tom da descrição (amigável, formal, técnico, etc.) para adequá-la ao público e ao contexto.
+*  **Geração de Descrições a partir de Imagens:** A IA analisa a imagem do produto para identificar suas características visuais.
+*  **Entrada de Informações Adicionais:** O usuário pode fornecer informações como nome do produto, marca, público-alvo e características-chave.
+*  **Seleção de Tom de Voz:** O usuário pode escolher o tom da descrição (amigável, formal, técnico, etc.) para adequá-la ao público e ao contexto.
 * **Otimização para SEO:** As descrições são geradas com foco em palavras-chave relevantes para melhorar a visibilidade nos mecanismos de busca.
-* [cite_start] **Salvamento em PDF:** A descrição gerada, juntamente com a imagem do produto, pode ser salva em um arquivo PDF no Google Drive.
+* **Salvamento em PDF:** A descrição gerada, juntamente com a imagem do produto, pode ser salva em um arquivo PDF no Google Drive.
 * **Organização:** Os arquivos PDF são salvos em uma pasta específica ("Gerador\_de\_descricao") no Google Drive para fácil organização.
 
 ## Como Usar
